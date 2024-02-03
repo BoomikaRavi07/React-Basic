@@ -1,0 +1,16 @@
+.container{
+    width: 80%;
+    margin: 50px;
+    text-align: center;
+}
+
+.online{
+    color: aqua;
+}
+
+.offline{
+    color: aquamarine;
+}
+.al{
+    text-align: center;
+  }
